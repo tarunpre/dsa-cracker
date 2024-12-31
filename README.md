@@ -16,3 +16,7 @@ Each topic includes the following sections:
 * 📊 **Complexity**: Analysis of the time and space complexity of the data structure or algorithm.
 * 🎯 **Application**: Discuss problems commonly solved using the data structure or algorithm.
 * 📝 **Rehearsal**: Practice problems with links to tests that provide 100% coverage and example inputs and outputs.
+
+## Other Helpful Resources
+
+* [DSA Patterns](https://github.com/nishant-Tiwari24/company-wise-dsa/blob/main/README.md)
